@@ -1,2 +1,2 @@
-# reposit-rio
+# repositorio
 programação para a internet
